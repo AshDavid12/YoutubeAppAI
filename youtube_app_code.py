@@ -12,7 +12,7 @@ import re
 import youtube_dl
 from json import loads
 
-#os.environ["OPENAI_API_KEY"] = "bla"
+os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 
 # Helper functions
 

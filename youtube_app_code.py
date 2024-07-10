@@ -9,7 +9,7 @@ from langchain_core.output_parsers import StrOutputParser
 from youtube_transcript_api import YouTubeTranscriptApi
 from pytube import YouTube
 import re
-import youtube_dl
+#import youtube_dl
 from json import loads
 
 os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]

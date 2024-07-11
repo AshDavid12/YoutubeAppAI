@@ -23,4 +23,5 @@ Paste a url in the box and click Run!.
  
 Alternitivly, paste this link in a browser - https://youtubeappai-7dp5fkqccpx6eokchqcz5a.streamlit.app/ 
 
-
+## User Interface
+<img width="689" alt="Screenshot 2024-07-11 at 9 47 05 AM" src="https://github.com/AshDavid12/YoutubeAppAI/assets/140085047/83bb0eea-4e70-4a8c-9b1d-bba9c0fc3d19">

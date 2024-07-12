@@ -15,6 +15,12 @@ install youtube_transcript_api
 install pytube 
 install json
 ```
+using poetry:  
+```
+install poetry 
+poetry shell 
+```
+* make sure to use python 3.11 to run streamlit
 
 ### Run
 Type in terminal: `streamlit run youtube_app_code.py`. 
